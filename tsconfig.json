@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es5", "dom"],
+    "types": ["cypress", "node"]
+  },
+  "include": ["**/*.ts"],
+  "files": ["./node_modules/@applitools/eyes-cypress/eyes-index.d.ts"]
+}
